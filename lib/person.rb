@@ -10,6 +10,6 @@ class Person
       self.send("#{key}=", value)
     end
   end 
-  binding.pry
+ # binding.pry
   
 end
